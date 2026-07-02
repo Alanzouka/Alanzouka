@@ -17,7 +17,6 @@
  
 ---
                   
-<br>
 <div align="center"> 
  <h2>Technologies session</h2>
   </div>
@@ -51,8 +50,6 @@
 </picture>
 
 
-
-<br><br/>
 <div align="center"> 
 <h2>Stats and Languages </h2>
   </div>
