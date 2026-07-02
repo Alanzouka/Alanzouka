@@ -102,10 +102,6 @@
 
 &nbsp;
 
-<h2> End ;) </h2>
-
-&nbsp;
-
 <img align="center" width="90%" height="" src="PUPARIA.gif" alt="decorative gif" />
  
 
