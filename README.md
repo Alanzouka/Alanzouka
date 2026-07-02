@@ -50,10 +50,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Alanzouka/Alanzouka/pacman-output/pacman-contribution-graph.svg?game=pacman" width="100%">
 </picture>
 
- <div align="center">
-<img align="center" width="50%" height="" src="PUPARIA.gif" alt="decorative gif" />
-</div>
-
 
 
 <br><br/>
@@ -78,7 +74,7 @@
 <br><br/>
 
 <div align="center">
-  <img src="download (3).gif" width="80%" /hgx>
+  <img src="PUPARIA.gif" width="80%" /hgx>
 </div>         
 
 ---
