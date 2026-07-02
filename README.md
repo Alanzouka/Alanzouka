@@ -7,10 +7,10 @@
 ###
 <div data-importer="socials" align="center">
   <a href="https://www.instagram.com/x.a1lan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=0077b6&logoColor=white&labelColor=&style=for-the-badge" height="60" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=0077b6&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="instagram logo"  />
   </a>
   <a href="https://open.spotify.com/user/31jwlujqcy4glwj2peauvbd3erva?si=Q5pZJdaXQqCR8t_WWlavig" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=&style=for-the-badge" height="60" alt="spotify logo"  />
+    <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=&style=for-the-badge" height="50" alt="spotify logo"  />
   </a>
 </div>
 
