@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0077b6&height=180&section=header&text=%E2%9F%A1%20Bem-vinde%20%E2%9F%A1&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E2%9D%96%20Allan%20%E2%80%A2%20future%20cybersecurity&descAlignY=60&descSize=18&descColor=bde0fe" alt="header banner" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020c1b,50:0d3b66,100:0066ff&height=180&section=header&text=%E2%9F%A1%20Bem-vinde%20%E2%9F%A1&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E2%9D%96%20Allan%20%E2%80%A2%20future%20cybersecurity&descAlignY=60&descSize=18&descColor=bde0fe" alt="header banner" />
 </div>
 
 ###
@@ -58,7 +58,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alanzouka/Alanzouka/pacman-output/breakout-contribution-graph.svg?game=breakout">
   <img alt="breakout contribution graph" src="https://raw.githubusercontent.com/Alanzouka/Alanzouka/pacman-output/breakout-contribution-graph.svg?game=breakout" width="64%">
   <div align="center">
-  <img src="https://raw.githubusercontent.com/Alanzouka/Alanzouka/snake-output/snake.svg" alt="Snake animation" height="130" />
+  <img src="https://raw.githubusercontent.com/Alanzouka/Alanzouka/snake-output/snake.svg" alt="Snake animation" width="64%" />
 </div>
 </picture>
 
