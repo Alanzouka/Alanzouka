@@ -66,6 +66,9 @@
 
 </div>
 
+<img align="right" width="34%" height="200" src="img/download.gif" alt="decorative gif" />
+
+
 <br clear="both">
 
 ###
