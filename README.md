@@ -62,15 +62,13 @@
 
 ###
 
-<img align="right" width="45%"  src="☆Studio Ghibli☆.gif" alt="decorative gif" />
-
 <div align="right">
 
 
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Alanzouka/Alanzouka/snake-output/snake.svg" alt="Snake animation" width="50%" />
+  <img src="https://raw.githubusercontent.com/Alanzouka/Alanzouka/snake-output/snake.svg" alt="Snake animation" width="70%" />
 </div>
 
 
