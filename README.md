@@ -4,7 +4,8 @@
  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020c1b,50:0d3b66,100:0066ff&height=180&section=header&text=%E2%9F%A1%20Bem-vinde%20%E2%9F%A1&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E2%9D%96%20Allan%20%E2%80%A2%20future%20cybersecurity&descAlignY=60&descSize=18&descColor=bde0fe" alt="header banner" />
 </div>
 
-###
+<br>
+
 <div data-importer="socials" align="center">
   <a href="https://www.instagram.com/x.a1lan" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=0077b6&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="instagram logo"  />
@@ -14,6 +15,9 @@
   </a>
 </div>
 
+<br><br>
+
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
@@ -47,31 +51,34 @@
 
 ###
 
-
-<div align="right"> 
-
 <img align="right" width="34%" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXRmZzRjbnEwMTVzMHIzdzVjc2VqbHZkcmdwNWhrZjdoYXFsYjgwOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sNUWF7fAUP2q4/giphy.gif" alt="decorative gif" />
+
+<div align="right">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alanzouka/Alanzouka/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alanzouka/Alanzouka/pacman-output/breakout-contribution-graph.svg?game=breakout">
+  <img alt="breakout contribution graph" src="https://raw.githubusercontent.com/Alanzouka/Alanzouka/pacman-output/breakout-contribution-graph.svg?game=breakout" width="60%">
+</picture>
 
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Alanzouka/Alanzouka/snake-output/snake.svg" alt="Snake animation" height="135" />
 </div>
 
+
+
 </div>
-
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alanzouka/Alanzouka/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alanzouka/Alanzouka/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Alanzouka/Alanzouka/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
-
-
-
 
 <br clear="both">
 
+###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alanzouka/Alanzouka/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alanzouka/Alanzouka/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Alanzouka/Alanzouka/pacman-output/pacman-contribution-graph.svg?game=pacman" width="100%">
+</picture>
+
+
+###
