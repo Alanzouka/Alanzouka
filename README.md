@@ -56,14 +56,13 @@
 
 
 
-<div align="center"> 
-<h2>Stats and Languages </h2>
+<div align="center">
+<h2>Languages</h2>
   </div>
-<br><br/>
 
-<img align="left" width="50%" src="https://raw.githubusercontent.com/Alanzouka/Alanzouka/stats-output/stats.svg" alt="stats graph" />
-<img align="right" width="45%" src="https://raw.githubusercontent.com/Alanzouka/Alanzouka/languages-output/languages.svg" alt="languages graph" />
-
+<div align="center">
+<img align="center" width="45%" src="https://raw.githubusercontent.com/Alanzouka/Alanzouka/languages-output/languages.svg" alt="languages graph" />
+</div>     
 
 <br clear="both">
 
