@@ -37,12 +37,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo" />
- 
+
 </div>
 
-<br><br/>
+
+
 
 ---
+<br><br/>
+
+ <div align="center">
+<img align="center" width="50%" height="" src="download (2).gif" alt="decorative gif" />
+</div>
+
+
+
 <br><br/>
 <div align="center"> 
 <h2>Stats and Languages </h2>
@@ -51,6 +60,12 @@
 
 <img align="left" width="50%" src="https://raw.githubusercontent.com/Alanzouka/Alanzouka/stats-output/stats.svg" alt="stats graph" />
 <img align="right" width="45%" src="https://raw.githubusercontent.com/Alanzouka/Alanzouka/languages-output/languages.svg" alt="languages graph" />
+
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Alanzouka/Alanzouka/snake-output/snake.svg" alt="Snake animation" width="70%" />
+</div>
+
 
 <br clear="both">
 
@@ -74,26 +89,35 @@
 
 ###
 
-<img align="left" width="50%" height="" src="download (2).gif" alt="decorative gif" />
-<a href="https://open.spotify.com/user/31jwlujqcy4glwj2peauvbd3erva">
-  <img align="right" width="47%" src="https://spotify-recently-played-readme.vercel.app/api?user=31jwlujqcy4glwj2peauvbd3erva&count=3&unique=false" alt="Spotify recently played" />
+<div align="center">
+
+<h2> Spotify Session</h2>
+<a href="https://open.spotify.com/user/31jwlujqcy4glwj2peauvbd3erva" >
+  <img align="center" width="47%" src="https://spotify-recently-played-readme.vercel.app/api?user=31jwlujqcy4glwj2peauvbd3erva&count=3&unique=false" alt="Spotify recently played" />
 </a>
+
+&nbsp;
+
+---
+
+&nbsp;
+
+<h2> End ;) </h2>
+
+&nbsp;
+
+<img align="center" width="90%" height="" src="PUPARIA.gif" alt="decorative gif" />
+ 
 
 <br clear="both">
 
 ###
 
-<div align="right">
 
 
 
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Alanzouka/Alanzouka/snake-output/snake.svg" alt="Snake animation" width="70%" />
-</div>
 
-
-</div>
 
 
 
