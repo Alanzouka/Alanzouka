@@ -44,10 +44,14 @@
 
 
 ---
-<br><br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alanzouka/Alanzouka/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alanzouka/Alanzouka/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Alanzouka/Alanzouka/pacman-output/pacman-contribution-graph.svg?game=pacman" width="100%">
+</picture>
 
  <div align="center">
-<img align="center" width="50%" height="" src="download (2).gif" alt="decorative gif" />
+<img align="center" width="50%" height="" src="PUPARIA.gif" alt="decorative gif" />
 </div>
 
 
@@ -74,17 +78,11 @@
 <br><br/>
 
 <div align="center">
-  <img src="download (3).gif" width="60%" /hgx>
+  <img src="download (3).gif" width="80%" /hgx>
 </div>         
 
-<br><br/>
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alanzouka/Alanzouka/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alanzouka/Alanzouka/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Alanzouka/Alanzouka/pacman-output/pacman-contribution-graph.svg?game=pacman" width="100%">
-</picture>
 
 
 ###
@@ -92,6 +90,8 @@
 <div align="center">
 
 <h2> Spotify Session</h2>
+
+
 <a href="https://open.spotify.com/user/31jwlujqcy4glwj2peauvbd3erva" >
   <img align="center" width="47%" src="https://spotify-recently-played-readme.vercel.app/api?user=31jwlujqcy4glwj2peauvbd3erva&count=3&unique=false" alt="Spotify recently played" />
 </a>
@@ -99,25 +99,3 @@
 &nbsp;
 
 ---
-
-&nbsp;
-
-<img align="center" width="90%" height="" src="PUPARIA.gif" alt="decorative gif" />
- 
-
-<br clear="both">
-
-###
-
-
-
-
-
-
-
-
-
-###
-
-
-###
