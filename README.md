@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=%E2%9F%A1%20Bem-vinde%2C%20viajante%20%E2%9F%A1&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E2%9D%96%20alan%20%E2%80%A2%20full-stack%20dev&descAlignY=60&descSize=18&descColor=e0c3ff" alt="header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0077b6&height=180&section=header&text=%E2%9F%A1%20Bem-vinde%20%E2%9F%A1&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E2%9D%96%20Allan%20%E2%80%A2%20future%20cybersecurity&descAlignY=60&descSize=18&descColor=bde0fe" alt="header banner" />
 </div>
 
 ###
@@ -36,8 +36,8 @@
 
 ###
 
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Alanzouka&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=midnight-purple&locale=en" alt="stats graph" />
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanzouka&layout=compact&card_width=320&langs_count=5&hide_border=true&theme=midnight-purple&locale=en" alt="languages graph" />
+<img align="left" width="50%" src="https://raw.githubusercontent.com/Alanzouka/Alanzouka/stats-output/stats.svg" alt="stats graph" />
+<img align="right" width="45%" src="https://raw.githubusercontent.com/Alanzouka/Alanzouka/languages-output/languages.svg" alt="languages graph" />
 
 <br clear="both">
 
