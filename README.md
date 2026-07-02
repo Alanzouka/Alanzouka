@@ -57,7 +57,7 @@
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Alanzouka/Alanzouka/snake-output/snake.svg" alt="Snake animation" width=64%" />
+  <img src="https://raw.githubusercontent.com/Alanzouka/Alanzouka/snake-output/snake.svg" alt="Snake animation" width="64%" />
 </div>
 
 
