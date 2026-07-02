@@ -49,6 +49,12 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Alanzouka/Alanzouka/pacman-output/pacman-contribution-graph.svg?game=pacman" width="100%">
 </picture>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Alanzouka/Alanzouka/snake-output/snake.svg" alt="Snake animation" width="70%" />
+</div>
+
+
+
 
 <div align="center"> 
 <h2>Stats and Languages </h2>
@@ -57,11 +63,6 @@
 
 <img align="left" width="50%" src="https://raw.githubusercontent.com/Alanzouka/Alanzouka/stats-output/stats.svg" alt="stats graph" />
 <img align="right" width="45%" src="https://raw.githubusercontent.com/Alanzouka/Alanzouka/languages-output/languages.svg" alt="languages graph" />
-
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Alanzouka/Alanzouka/snake-output/snake.svg" alt="Snake animation" width="70%" />
-</div>
 
 
 <br clear="both">
