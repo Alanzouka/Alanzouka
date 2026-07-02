@@ -48,10 +48,10 @@
 
 ###
 
-<img align="right" width="34%" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXRmZzRjbnEwMTVzMHIzdzVjc2VqbHZkcmdwNWhrZjdoYXFsYjgwOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sNUWF7fAUP2q4/giphy.gif" alt="decorative gif" />
 
 <div align="right"> 
 
+<img align="right" width="34%" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXRmZzRjbnEwMTVzMHIzdzVjc2VqbHZkcmdwNWhrZjdoYXFsYjgwOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sNUWF7fAUP2q4/giphy.gif" alt="decorative gif" />
 
 
 <div align="center">
