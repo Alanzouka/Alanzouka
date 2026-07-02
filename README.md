@@ -1,6 +1,8 @@
 <br clear="both">
 
-<h1 align="center">Bem vinde!</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=%E2%9F%A1%20Bem-vinde%2C%20viajante%20%E2%9F%A1&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E2%9D%96%20alan%20%E2%80%A2%20full-stack%20dev&descAlignY=60&descSize=18&descColor=e0c3ff" alt="header banner" />
+</div>
 
 ###
 
@@ -34,62 +36,38 @@
 
 ###
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/Alanzouka/Alanzouka/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" width="100%" alt="stats graph" />
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/Alanzouka/Alanzouka/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&order=2" width="100%" alt="languages graph" />
-    </td>
-  </tr>
-</table>
-
-###
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dHdrMDd6ZWY1aW1pZzl4NTM4cG1qYjBqdWhicTJzdmNwdjc3bGlteCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FeVg8ViEczcxG/giphy.gif" width="100%" alt="decorative gif" />
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://open.spotify.com/user/31jwlujqcy4glwj2peauvbd3erva">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=31jwlujqcy4glwj2peauvbd3erva&count=3&unique=false" width="100%" alt="Spotify recently played" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-###
-
-<div align="right">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXRmZzRjbnEwMTVzMHIzdzVjc2VqbHZkcmdwNWhrZjdoYXFsYjgwOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sNUWF7fAUP2q4/giphy.gif" height="200" alt="decorative gif" />
-</div>
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Alanzouka&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=midnight-purple&locale=en" alt="stats graph" />
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanzouka&layout=compact&card_width=320&langs_count=5&hide_border=true&theme=midnight-purple&locale=en" alt="languages graph" />
 
 <br clear="both">
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Alanzouka/Alanzouka/snake-output/snake.svg" alt="Snake animation" height="130" />
-</div>
+<img align="left" width="47%" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dHdrMDd6ZWY1aW1pZzl4NTM4cG1qYjBqdWhicTJzdmNwdjc3bGlteCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FeVg8ViEczcxG/giphy.gif" alt="decorative gif" />
+<a href="https://open.spotify.com/user/31jwlujqcy4glwj2peauvbd3erva">
+  <img align="right" width="47%" src="https://spotify-recently-played-readme.vercel.app/api?user=31jwlujqcy4glwj2peauvbd3erva&count=3&unique=false" alt="Spotify recently played" />
+</a>
+
+<br clear="both">
 
 ###
 
-<div align="center">
+<img align="right" width="34%" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXRmZzRjbnEwMTVzMHIzdzVjc2VqbHZkcmdwNWhrZjdoYXFsYjgwOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sNUWF7fAUP2q4/giphy.gif" alt="decorative gif" />
+
+<div align="right">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alanzouka/Alanzouka/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alanzouka/Alanzouka/pacman-output/breakout-contribution-graph.svg?game=breakout">
-  <img alt="breakout contribution graph" src="https://raw.githubusercontent.com/Alanzouka/Alanzouka/pacman-output/breakout-contribution-graph.svg?game=breakout" height="100">
+  <img alt="breakout contribution graph" src="https://raw.githubusercontent.com/Alanzouka/Alanzouka/pacman-output/breakout-contribution-graph.svg?game=breakout" width="64%">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alanzouka/Alanzouka/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alanzouka/Alanzouka/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Alanzouka/Alanzouka/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Alanzouka/Alanzouka/snake-output/snake.svg" alt="Snake animation" height="135" />
+</div>
 
 </div>
+
+<br clear="both">
 
 ###
