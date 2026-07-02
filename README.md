@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020c1b,50:0d3b66,100:0066ff&height=180&section=header&text=%E2%9F%A1%20Bem-vinde%20%E2%9F%A1&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E2%9D%96%20Allan%20%E2%80%A2%20future%20cybersecurity&descAlignY=60&descSize=18&descColor=bde0fe" alt="header banner" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:0d3b66,100:000000&height=180&section=header&text=%E2%9C%A6%20%CB%96%20Welcome%20to%20the%20Hell%20%E2%9C%A6%20%CB%96&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E2%9D%96%20Allan%20%E2%80%A2%20future%20cybersecurity&descAlignY=60&descSize=18&descColor=bde0fe" alt="header banner" />
 </div>
 
 <br>
@@ -15,22 +15,20 @@
   </a>
 </div>
 
-<br><br>
-
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="55" alt="typescript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="55" alt="linux logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="55" alt="notion logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="55" alt="nodejs logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="55" alt="vscode logo" />
 </div>
 
 ###
