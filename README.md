@@ -1,17 +1,17 @@
 <br clear="both">
 
 <div align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:0d3b66,100:000000&height=180&section=header&text=%E2%9C%A6%20%CB%96%20Welcome%20to%20the%20Hell%20%E2%9C%A6%20%CB%96&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E2%9D%96%20Allan%20%E2%80%A2%20future%20cybersecurity&descAlignY=60&descSize=18&descColor=bde0fe" alt="header banner" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:001233,100:0066ff&height=180&section=header&text=Welcome%20to%20the%20Hell&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E2%9D%96%20Allan%20%E2%80%A2%20future%20cybersecurity&descAlignY=60&descSize=18&descColor=bde0fe" alt="header banner" />
 </div>
 
 <br>
 
 <div data-importer="socials" align="center">
   <a href="https://www.instagram.com/x.a1lan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=0077b6&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=0077b6&logoColor=white&labelColor=&style=for-the-badge" height="70" alt="instagram logo"  />
   </a>
   <a href="https://open.spotify.com/user/31jwlujqcy4glwj2peauvbd3erva?si=Q5pZJdaXQqCR8t_WWlavig" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=&style=for-the-badge" height="50" alt="spotify logo"  />
+    <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=&style=for-the-badge" height="70" alt="spotify logo"  />
   </a>
 </div>
 
