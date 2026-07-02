@@ -1,17 +1,26 @@
 <br clear="both">
 
+
+
 <div align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:001233,100:0066ff&height=180&section=header&text=Welcome%20to%20the%20Hell&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E2%9D%96%20Allan%20%E2%80%A2%20future%20cybersecurity&descAlignY=60&descSize=18&descColor=bde0fe" alt="header banner" />
+  <img src="download (1).gif" width="100%" /hgx>
 </div>
-
-
-
 
 ###
 
+<div align="center"> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=35&pause=1000&color=2B62FF&width=435&lines=Welcome+to+the+hell;future+cybersecurity" alt="Typing SVG" /></a>
+</div>
 
+
+ 
+---
+                  
+<br>
 
 <div align="center">
+
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript logo" />
@@ -23,6 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo" />
+ 
 </div>
 
 
@@ -43,7 +53,7 @@
 
 ###
 
-<img align="left" width="47%" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dHdrMDd6ZWY1aW1pZzl4NTM4cG1qYjBqdWhicTJzdmNwdjc3bGlteCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FeVg8ViEczcxG/giphy.gif" alt="decorative gif" />
+<img align="left" width="50%" height="" src="download (2).gif" alt="decorative gif" />
 <a href="https://open.spotify.com/user/31jwlujqcy4glwj2peauvbd3erva">
   <img align="right" width="47%" src="https://spotify-recently-played-readme.vercel.app/api?user=31jwlujqcy4glwj2peauvbd3erva&count=3&unique=false" alt="Spotify recently played" />
 </a>
@@ -52,7 +62,7 @@
 
 ###
 
-<img align="right" width="34%" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXRmZzRjbnEwMTVzMHIzdzVjc2VqbHZkcmdwNWhrZjdoYXFsYjgwOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sNUWF7fAUP2q4/giphy.gif" alt="decorative gif" />
+<img align="right" width="45%"  src="☆Studio Ghibli☆.gif" alt="decorative gif" />
 
 <div align="right">
 
@@ -60,14 +70,11 @@
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Alanzouka/Alanzouka/snake-output/snake.svg" alt="Snake animation" width="64%" />
+  <img src="https://raw.githubusercontent.com/Alanzouka/Alanzouka/snake-output/snake.svg" alt="Snake animation" width="50%" />
 </div>
 
 
 </div>
-
-<img align="right" width="34%" height="200" src="img/download.gif" alt="decorative gif" />
-
 
 <br clear="both">
 
