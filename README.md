@@ -8,6 +8,7 @@
 
 ###
 
+
 <div align="center"> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=35&pause=1000&color=2B62FF&width=435&lines=Welcome+to+the+hell;future+cybersecurity" alt="Typing SVG" /></a>
 </div>
@@ -17,6 +18,10 @@
 ---
                   
 <br>
+<div align="center"> 
+ <h2>Technologies session</h2>
+  </div>
+
 
 <div align="center">
 
@@ -35,11 +40,14 @@
  
 </div>
 
+<br><br/>
 
-
-
-
-###
+---
+<br><br/>
+<div align="center"> 
+<h2>Stats and Languages </h2>
+  </div>
+<br><br/>
 
 <img align="left" width="50%" src="https://raw.githubusercontent.com/Alanzouka/Alanzouka/stats-output/stats.svg" alt="stats graph" />
 <img align="right" width="45%" src="https://raw.githubusercontent.com/Alanzouka/Alanzouka/languages-output/languages.svg" alt="languages graph" />
