@@ -55,7 +55,15 @@
 <br clear="both">
 
 ---
-         
+
+<br><br/>
+
+<div align="center">
+  <img src="download (3).gif" width="60%" /hgx>
+</div>         
+
+<br><br/>
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alanzouka/Alanzouka/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
@@ -87,7 +95,7 @@
 
 </div>
 
-<br clear="both">
+
 
 ###
 
