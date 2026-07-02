@@ -71,7 +71,7 @@
 
 ---
 
-<br><br/>
+
 
 <div align="center">
   <img src="PUPARIA.gif" width="80%" /hgx>
@@ -79,19 +79,3 @@
 
 ---
 
-
-
-###
-
-<div align="center">
-
-<h2> Spotify Session</h2>
-
-
-<a href="https://open.spotify.com/user/31jwlujqcy4glwj2peauvbd3erva" >
-  <img align="center" width="47%" src="https://spotify-recently-played-readme.vercel.app/api?user=31jwlujqcy4glwj2peauvbd3erva&count=3&unique=false" alt="Spotify recently played" />
-</a>
-
-&nbsp;
-
----
