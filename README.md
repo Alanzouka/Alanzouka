@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <img src="download (1).gif" width="90%" /hgx>
+  <img src="download.gif" width="100%" /hgx>
 </div>
 
 ###
