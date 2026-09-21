@@ -3,14 +3,14 @@
 
 
 <div align="center">
-  <img src="download.gif" width="100%" /hgx>
+  <img src="download (1).gif" width="90%" /hgx>
 </div>
 
 ###
 
 
 <div align="center"> 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=35&pause=1000&color=2B62FF&width=435&lines=Welcome+to+the+hell;future+cybersecurity" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=30&pause=1000&color=3DC519&width=435&lines=Welcome+to+the+Hell;Future+Cybersecurity" alt="Typing SVG" /></a>
 </div>
 
 
