@@ -56,22 +56,13 @@
 
 
 
-<div align="center">
-<h2>Languages</h2>
-  </div>
-
-<div align="center">
-<img align="center" width="45%" src="https://raw.githubusercontent.com/Alanzouka/Alanzouka/languages-output/languages.svg" alt="languages graph" />
-</div>     
-
-<br clear="both">
 
 ---
 
 
 
 <div align="center">
-  <img src="PUPARIA.gif" width="80%" /hgx>
+  <img src="download (2).gif" width="80%" /hgx>
 </div>         
 
 ---
